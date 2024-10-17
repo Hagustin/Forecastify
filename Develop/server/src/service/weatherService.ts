@@ -79,6 +79,8 @@ class WeatherService {
     this.baseURL = process.env.API_BASE_URL || '';
 
     this.apiKey = process.env.API_KEY || '';
+    console.log('Base URL:', this.baseURL);  // Check this in the console
+    console.log('API Key:', this.apiKey);    // Check this in the console
   }
 
   private async fetchLocationData(query: string) {
