@@ -1,14 +1,14 @@
 [
 	{
-		"name": "Austin",
-		"id": "97adf5d9-4b34-4138-a70e-ed418ccd5062"
-	},
-	{
-		"name": "Atlanta",
-		"id": "aae6bc8a-fcab-4f9d-b04d-a1830c509114"
-	},
-	{
 		"name": "Manila",
 		"id": "12a3f1d5-f93a-4594-b777-ce860171f5e9"
+	},
+	{
+		"name": "Melbourne",
+		"id": "3fe435ce-b741-437d-9ac0-483e0a75faf5"
+	},
+	{
+		"name": "Los Angeles",
+		"id": "18f0c58d-a8cc-489e-9d50-173095a6c1bd"
 	}
 ]
